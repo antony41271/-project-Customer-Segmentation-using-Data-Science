@@ -1,2 +1,2 @@
-# Phase-2
+#  project-Customer Segmentation using Data Science
 Project submission
